@@ -56,8 +56,6 @@ func main() {
 	y := circle{
 		radius: 5.25,
 	}
-	x.area()
-	y.area()
 
 	info(x)
 	info(y)
