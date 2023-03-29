@@ -1,5 +1,5 @@
 # Learning Go 
-![go-course-img](https://aprendagolang.com.br/wp-content/uploads/2022/12/imersao-aprenda-golang.png)
+<img src="https://aprendagolang.com.br/wp-content/uploads/2022/12/imersao-aprenda-golang.png" width="400" height="400" />
 
 This repo is aimed to store the exercises from Ellen Korbes' Go course available at https://www.youtube.com/@AprendaGo, which is a translation and entirely based on Todd McLeod course from Udemy(https://www.udemy.com/course/learn-how-to-code/)
 
