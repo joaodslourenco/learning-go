@@ -12,9 +12,11 @@ package main
 
 import (
 	"fmt"
+
+	"github.com/joaodslourenco/learning-go/12-documentation/01/dog"
 )
 
 func main() {
-	fmt.Println(dog.Age(10))
+	fmt.Println(dog.Age(12))
 
 }
