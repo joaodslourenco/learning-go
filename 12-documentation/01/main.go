@@ -15,6 +15,6 @@ import (
 )
 
 func main() {
-	fmt.Println(dog)
+	fmt.Println(dog.Age(10))
 
 }
