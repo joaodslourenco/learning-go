@@ -9,10 +9,12 @@ The exercise is: create a simple test of a function or method or piece of code.
 */
 package main
 
-func IsEven(n int) bool {
+import "fmt"
+
+func isEven(n int) bool {
 	return n%2 == 0
 }
 
 func main() {
-
+	fmt.Println(isEven(10))
 }
