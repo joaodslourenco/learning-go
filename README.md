@@ -18,4 +18,5 @@ As a summary, those were the chapters covered in the course:
 * 9 - Concurrency
 * 10 - Channels;
 * 11 - Error treatment;
-* 12 - Testing and benchmarks;
+* 12 - Documentation;
+* 13 - Testing and benchmarks;
